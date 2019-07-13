@@ -1,28 +1,22 @@
 # forca
 
-FIXME: description
+My first Clojure project. A hangman game.
 
 ## Installation
 
-Download from http://example.com/FIXME.
+
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar forca-0.1.0-standalone.jar [args]
 
 ## Options
 
-FIXME: listing of options this app accepts.
 
 ## Examples
 
-...
 
 ### Bugs
 
-...
 
 ### Any Other Sections
 ### That You Think
@@ -30,7 +24,7 @@ FIXME: listing of options this app accepts.
 
 ## License
 
-Copyright © 2019 FIXME
+Copyright © 2019
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
