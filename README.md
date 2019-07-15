@@ -3,16 +3,18 @@
 My first Clojure project. A hangman game.
 
 ## Installation
+1. Install **lein** following these steps: https://leiningen.org/#install.
+2. Fork this repository
+3. In root type in terminal:
+    lein run
 
 
+## Generating and running JAR
+In root folder type this on terminal:
+    lein uberjar
 
-## Usage
-
-
-## Options
-
-
-## Examples
+A JAR file will be crated in directory *target/uberjar*. Navigate to that directory and run 
+the JAR file with javac command. (Make sure you have java installed in your machine for that).
 
 
 ### Bugs
