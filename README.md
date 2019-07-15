@@ -16,14 +16,6 @@ In root folder type this on terminal:
 A JAR file will be crated in directory *target/uberjar*. Navigate to that directory and run 
 the JAR file with javac command. (Make sure you have java installed in your machine for that).
 
-
-### Bugs
-
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
 ## License
 
 Copyright © 2019
